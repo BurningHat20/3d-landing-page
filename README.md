@@ -61,8 +61,8 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 **Yash Gohel**
 
-- Github: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [@your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
+- Github: [@BurningHat20](https://github.com/BurningHat20)
+- LinkedIn: [@Yash Gohel](https://linkedin.com/in/yashgohel777/)
 
 ## 🌟 Show your support
 
